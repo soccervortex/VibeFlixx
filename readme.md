@@ -51,7 +51,7 @@ VibeFlix is provided under a custom license. You will be prompted to accept the 
 
 ## 💬 Feedback & Support
 
-Feel free to open an issue here on GitHub or contact [your-email@example.com].
+Feel free to open an issue here on GitHub or contact [drmizayt@gmail.com].
 
 ---
 
